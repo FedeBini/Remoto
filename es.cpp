@@ -16,6 +16,11 @@ int inc(int a){
     return a;
 }
 
+int x2(int a){
+    a=a^2;
+    return a;
+}
+
 
 int main (void){
     
