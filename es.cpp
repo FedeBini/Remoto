@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 //ciao mondi
-//ciao mieni
+//ciao 
+//pluto
 using namespace std;
 
 double distanza (double X1 , double Y1, double X2, double Y2){
