@@ -17,6 +17,11 @@ int inc(int a){
 }
 
 
+int x2(int a){
+    a=a^2;
+    return a;
+}
+
 int main (void){
     
     double X1,X2,Y1,Y2,X3,Y3;
