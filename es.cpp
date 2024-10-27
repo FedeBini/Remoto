@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-//ciao mondo
+//ciao mondi
 //ciao mieni
 using namespace std;
 
