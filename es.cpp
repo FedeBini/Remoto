@@ -11,6 +11,16 @@ double distanza (double X1 , double Y1, double X2, double Y2){
 
 }
 
+int inc(int a){
+    a++;
+    return a;
+}
+
+
+int x2(int a){
+    a=a^2;
+    return a;
+}
 
 int main (void){
     
