@@ -6,8 +6,8 @@
 using namespace std;
 
 double distanza (double X1 , double Y1, double X2, double Y2){
-    double d = sqrt ((X1-X2)*(X1-X2)+(Y1-Y2)*(Y1-Y2));
-    return d;
+    double f = sqrt ((X1-X2)*(X1-X2)+(Y1-Y2)*(Y1-Y2));
+    return f;
 
 }
 
